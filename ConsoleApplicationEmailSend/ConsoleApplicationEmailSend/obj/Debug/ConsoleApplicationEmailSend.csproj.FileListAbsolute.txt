@@ -1,0 +1,6 @@
+E:\Coding\ConsoleApplicationEmailSend\ConsoleApplicationEmailSend\bin\Debug\ConsoleApplicationEmailSend.exe.config
+E:\Coding\ConsoleApplicationEmailSend\ConsoleApplicationEmailSend\bin\Debug\ConsoleApplicationEmailSend.exe
+E:\Coding\ConsoleApplicationEmailSend\ConsoleApplicationEmailSend\bin\Debug\ConsoleApplicationEmailSend.pdb
+E:\Coding\ConsoleApplicationEmailSend\ConsoleApplicationEmailSend\obj\Debug\ConsoleApplicationEmailSend.csprojResolveAssemblyReference.cache
+E:\Coding\ConsoleApplicationEmailSend\ConsoleApplicationEmailSend\obj\Debug\ConsoleApplicationEmailSend.exe
+E:\Coding\ConsoleApplicationEmailSend\ConsoleApplicationEmailSend\obj\Debug\ConsoleApplicationEmailSend.pdb
